@@ -1,3 +1,3 @@
-# Conquering Responsive Designs Final Challenge
+# Conquering Responsive Layouts Final Challenge
 
-This is a solution of the Final Challenge of the Kevin Powell's course "Conquering Responsive Designs"
+This is a solution to the Final Challenge of the awesome Kevin Powell's course "Conquering Responsive Layouts"
